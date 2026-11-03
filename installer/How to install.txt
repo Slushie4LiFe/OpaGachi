@@ -1,0 +1,21 @@
+OpaGachi: how to install
+========================
+
+1. Unzip this file: right-click it > Extract All > Extract.
+2. Double-click "OpaGachi Setup.exe" in the unzipped folder.
+3. Keep the suggested folder (or choose another), then click Install.
+   No admin rights are needed; it installs for your Windows account only.
+4. OpaGachi starts. Look for the red ring in the system tray (bottom right, next to the clock);
+   double-click it for Settings.
+
+Updating: run a newer "OpaGachi Setup.exe" the same way. Your settings and custom sprites are kept.
+Uninstalling: Windows Settings > Apps > Installed apps > OpaGachi > Uninstall.
+
+If Windows stops the installer
+------------------------------
+- "Windows protected your PC" (SmartScreen): click "More info", then "Run anyway".
+- "Smart App Control blocked an app": this copy isn't signed by a verified publisher, and
+  Smart App Control has no override. Use a PC where Smart App Control is off, or a signed release.
+
+Needs Windows 10 or 11. Nothing else to install.
+Created by Slushie4LiFe. Opa is a Slushie4LiFe.com character. (c) 2026 Slushie4LiFe.com
