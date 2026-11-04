@@ -1,0 +1,55 @@
+{
+  "source": "..\\1TEMPLATES",
+  "crop": [
+    26,
+    8,
+    341,
+    370
+  ],
+  "width": 206,
+  "height": 224,
+  "fps": 24,
+  "denoise": 2,
+  "animations": {
+    "bored": [
+      "bored/bored1.opaclip",
+      "bored/bored2.opaclip",
+      "bored/bored3.opaclip"
+    ],
+    "complete": [
+      "complete/complete1.opaclip",
+      "complete/complete2.opaclip"
+    ],
+    "fail": [
+      "fail/fail1.opaclip"
+    ],
+    "help": [
+      "help/help1.opaclip"
+    ],
+    "idle": [
+      "idle/idle_1.opaclip",
+      "idle/idle_2.opaclip",
+      "idle/idle_3.opaclip"
+    ],
+    "idle_occasional": [
+      "idle_occasional/idleoc1.opaclip",
+      "idle_occasional/idleoc2.opaclip",
+      "idle_occasional/idleoc3.opaclip"
+    ],
+    "imagegen": [
+      "imagegen/imagegen1.opaclip",
+      "imagegen/imagegen2.opaclip"
+    ],
+    "thank": [
+      "thank/thank1.opaclip"
+    ],
+    "think": [
+      "think/think1.opaclip",
+      "think/think2.opaclip",
+      "think/think3.opaclip"
+    ],
+    "work": [
+      "work/work1.opaclip"
+    ]
+  }
+}
