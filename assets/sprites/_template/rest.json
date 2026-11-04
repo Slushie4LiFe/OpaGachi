@@ -1,0 +1,92 @@
+{
+ "_note": "Frames where each clip is back in its starting pose; loops may hand over here. Written by tools/find_rest_frames.py.",
+ "bored/bored1": [],
+ "bored/bored2": [
+  16,
+  114,
+  138,
+  245,
+  269,
+  366
+ ],
+ "bored/bored3": [
+  168,
+  192,
+  216
+ ],
+ "complete/complete1": [
+  35,
+  78,
+  118
+ ],
+ "complete/complete2": [
+  22,
+  52,
+  76,
+  108,
+  167,
+  228,
+  259,
+  284,
+  314
+ ],
+ "fail/fail1": [
+  71,
+  263
+ ],
+ "help/help1": [
+  24,
+  58,
+  93,
+  129,
+  189,
+  231,
+  266,
+  300
+ ],
+ "idle/idle_1": [
+  192
+ ],
+ "idle/idle_2": [
+  33,
+  59,
+  88,
+  112,
+  139,
+  189,
+  224,
+  272,
+  296,
+  323,
+  349
+ ],
+ "idle/idle_3": [
+  108,
+  273
+ ],
+ "idle_occasional/idleoc1": [],
+ "idle_occasional/idleoc2": [],
+ "idle_occasional/idleoc3": [
+  96
+ ],
+ "imagegen/imagegen1": [],
+ "imagegen/imagegen2": [],
+ "thank/thank1": [
+  82,
+  106,
+  130
+ ],
+ "think/think1": [
+  335
+ ],
+ "think/think2": [],
+ "think/think3": [
+  12,
+  71,
+  121,
+  166,
+  195,
+  265
+ ],
+ "work/work1": []
+}
