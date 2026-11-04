@@ -1,0 +1,4 @@
+{
+  "_note": "Full-body standing clips. They look smaller than sitting ones at the same scale, so Settings > Standing pose boost enlarges them (default 15%). Entries are an animation folder or folder/clip.",
+  "standing": ["idle", "idle_occasional", "bored", "complete", "help", "thank", "imagegen/imagegen2"]
+}

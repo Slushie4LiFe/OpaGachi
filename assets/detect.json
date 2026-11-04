@@ -1,0 +1,93 @@
+{
+  "_note": "Desktop AI apps OPA PET watches. processes: exe names of the app's windows. uia: read the app's prompt box through Windows UI Automation to tell when it's answering (a button matching 'busy' appears while it answers). help: button names that mean the app is waiting for your approval. error: button names that mean the answer failed. workAfter: seconds before the pet switches from thinking to writing. Restart OPA PET after editing.",
+  "busy": "^(stop|cancel)\\b",
+  "apps": [
+    {
+      "id": "chatgpt",
+      "agent": "chatgpt",
+      "label": "ChatGPT app",
+      "processes": [
+        "ChatGPT.exe"
+      ],
+      "uia": true,
+      "help": [
+        "Approve",
+        "Allow",
+        "Allow once",
+        "Run command",
+        "Confirm"
+      ],
+      "error": [
+        "Retry"
+      ]
+    },
+    {
+      "id": "chatgpt-classic",
+      "agent": "chatgpt",
+      "label": "ChatGPT Classic",
+      "processes": [
+        "ChatGPT Classic.exe"
+      ],
+      "uia": true,
+      "help": [
+        "Approve",
+        "Allow",
+        "Confirm"
+      ],
+      "error": [
+        "Retry"
+      ]
+    },
+    {
+      "id": "claude",
+      "agent": "claude",
+      "label": "Claude app",
+      "processes": [
+        "claude.exe"
+      ],
+      "uia": true,
+      "help": [
+        "Allow once",
+        "Always allow",
+        "Allow for this chat",
+        "Allow"
+      ],
+      "error": [
+        "Try again"
+      ]
+    },
+    {
+      "id": "gemini",
+      "agent": "gemini",
+      "label": "Gemini app",
+      "processes": [
+        "Gemini.exe"
+      ],
+      "uia": true,
+      "error": [
+        "Retry",
+        "Try again"
+      ]
+    },
+    {
+      "id": "grok",
+      "agent": "grok",
+      "label": "Grok app",
+      "processes": [
+        "grok-app.exe"
+      ],
+      "uia": true,
+      "error": [
+        "Retry",
+        "Try again"
+      ],
+      "help": [
+        "Allow",
+        "Allow once",
+        "Always allow",
+        "Approve",
+        "Run"
+      ]
+    }
+  ]
+}
