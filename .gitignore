@@ -1,0 +1,17 @@
+# Build output
+bin/
+dist/
+
+# Local tools and test output
+.tools/
+__pycache__/
+tools/dev/captures/
+tools/dev/*.exe
+
+# Personal data and logs. The app keeps these in %LOCALAPPDATA%\OpaGachi, but old builds wrote them here.
+settings.json
+hook-paths.json
+*.log
+assets/agents.json
+assets/sprites/custom/
+assets/ties/*-custom.png
