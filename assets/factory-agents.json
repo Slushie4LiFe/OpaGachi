@@ -1,0 +1,44 @@
+{
+  "claude": {
+    "name": "Claude",
+    "tie": "#D97757",
+    "texture": "assets/ties/presets/CLAUDE1/design-1-60x150.png",
+    "enabled": true,
+    "apps": [
+      "claude.exe"
+    ]
+  },
+  "chatgpt": {
+    "name": "ChatGPT",
+    "tie": "#5B2BA0",
+    "texture": "assets/ties/presets/GPT1/design-1-60x150.png",
+    "enabled": true,
+    "apps": [
+      "ChatGPT.exe"
+    ]
+  },
+  "gemini": {
+    "name": "Gemini",
+    "tie": "#F3D9E5",
+    "texture": "assets/ties/presets/GEMINI/design-1-60x150.png",
+    "enabled": true,
+    "apps": [
+      "Gemini.exe"
+    ]
+  },
+  "grok": {
+    "name": "Grok",
+    "tie": "#111114",
+    "texture": "assets/ties/presets/GROK/design-1-60x150.png",
+    "enabled": true,
+    "apps": [
+      "grok-app.exe"
+    ]
+  },
+  "demo": {
+    "name": "Demo",
+    "tie": "#E8B730",
+    "enabled": true,
+    "hidden": true
+  }
+}
