@@ -10,7 +10,8 @@ Grok Build**. Each open agent gets its own pet with its own tie and name colour.
 
 ## Download
 
-Get `OpaGachi-<version>.zip` from [Releases](../../releases/latest), unzip it and run `OpaGachi Setup.exe`.
+Open the [latest release](../../releases/latest), download **`OpaGachi-<version>.zip`** under **Assets**, unzip it
+and run `OpaGachi Setup.exe`. (The green **Code** button and the "Source code" files are the source, not the installer.)
 It installs for your Windows account only (no admin rights) and adds OpaGachi to the Start menu. Run a newer
 Setup to update; your settings are kept. Uninstall from Windows Settings > Apps.
 
